@@ -1,3 +1,5 @@
 /* this is my style sheet */
 
-div.heading {color:blue; font-size:20px; font-weight: bold}
+.heading {color:blue; font-size:20px; font-weight: bold;}
+
+#title {color:red; font-size: 25px: font-weight: bolder;}
