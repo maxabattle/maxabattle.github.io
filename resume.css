@@ -7,4 +7,6 @@
 
 body {background-color:#ADD8E6}
 
-.border {border-color:yellow; border-width: 10px;}
+.bigtext {font-size:40px;}
+
+.mediumtext {color:#FFFF66; font-size:25; font-weight:bold;}
