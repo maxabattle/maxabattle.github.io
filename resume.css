@@ -6,3 +6,5 @@
 .center {text-align:center;}
 
 body {background-color:#ADD8E6}
+
+.border {color:yellow; border-width: 10px; border-style: inset}
